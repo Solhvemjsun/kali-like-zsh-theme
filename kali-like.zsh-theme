@@ -18,6 +18,8 @@
 # (C) 2023 Cyril LAMY under the MIT License                                 #
 #############################################################################
 
+PROMPT_ALTERNATIVE=twoline
+NEWLINE_BEFORE_PROMPT=yes
 
 # hide EOL sign ('%')
 PROMPT_EOL_MARK=""
